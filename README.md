@@ -21,7 +21,7 @@
 <a href="https://linkedin.com/in/aungpaingsoe097238" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="aungpaingsoe097238" height="30" width="40" /></a>
 <a href="https://fb.com/aung.p.soe.5437/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="aung.p.soe.5437/" height="30" width="40" /></a>
 <a href="https://instagram.com/aung.p.soe.532/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="aung.p.soe.532/" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/alpha vlog" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="alpha vlog" height="30" width="40" /></a>
+<a href="https://www.youtube.com/c/uc894mg9fn8hz2gktkeqm_iq" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="uc894mg9fn8hz2gktkeqm_iq" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
